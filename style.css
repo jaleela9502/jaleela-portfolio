@@ -1,1 +1,91 @@
+body{ background: rgb(145, 224, 235);
+}
+.top-img{
+	height:300px;
+	width: 300px;
+	border-color: rgb(196, 98, 151);
+	border-width: 4px;
+	border-style: solid;
+	border-radius: 50%;
+}
+img{
+	border-color: rgb(178, 130, 237);
+	border-width: 4px;
+	border-style: solid;
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	margin-left: 30px;
 
+}
+h1{
+	text-decoration: double underline;
+	font-size: 50px;
+	color: pink;
+	text-shadow: -2px 2px black;
+letter-spacing: 2px;
+}
+p{
+	color: orange;
+	text-shadow: -1px 1px black;
+	font-family: cursive;
+text-align: justify;
+font-size: 20px;
+ }
+h2{text-decoration: underline;
+	text-align: center;
+	color: navy;
+	text-shadow: -1px 1px white;
+letter-spacing: 2px; 
+font-size: 30px;
+}
+h3{text-decoration: underline;
+	color: navy;
+	text-shadow: -1px 1px black;
+letter-spacing: 2px;
+font-size: 26px;
+}
+h5{text-decoration: underline;
+	color: pink;
+	text-shadow: -1px 1px black;
+letter-spacing: 1px;
+font-size: 20px;
+}
+	li{
+	font-size: 20px;
+	color: pink;
+	text-shadow: -1px 1px black;
+letter-spacing: 1px;
+	}
+.hobby {
+	text-align:left;
+	text-decoration: underline;
+	color: navy;
+	text-shadow: -1px 1px black;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+.jaleela {
+	height:300px;
+	width: 300px;
+	border-color: rgb(196, 98, 151);
+	border-width: 4px;
+	border-style: solid;
+	border-radius: 50%;
+}
+.manj{
+	margin-left: 160px;
+}
+.kut{
+	margin-left: 100px;
+}
+.paap{
+margin-left: 120px;
+}
+
+.uvar{
+	margin-left: 175px;
+}
+.kar{
+	margin-left: 180px;
+}
